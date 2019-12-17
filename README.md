@@ -25,6 +25,14 @@ Parameters :-
 
 The button can be stylised in any way wanted, as long as it contains the id and other attributes.
 
-Contributors :- 
-[@Man-Jain](https://github.com/Man-Jain)
-[@Kanika1799](https://github.com/Kanika1799)
+## Screenshots :-
+
+#### Dark Theme
+![Image1](https://github.com/Man-Jain/Hedera-Pay-Widget/blob/master/image1.png)
+
+#### Light Theme
+![Image2](https://github.com/Man-Jain/Hedera-Pay-Widget/blob/master/image2.png)
+
+## Contributors :- 
+- [@Man-Jain](https://github.com/Man-Jain)
+- [@Kanika1799](https://github.com/Kanika1799)
