@@ -18,10 +18,10 @@ The usage is simple and as follows :-
 ````
 
 Parameters :- 
-- address - Recipient's Hedera Address
-- theme - Dark (dark) and Light (light) themes
-- amount (Optional) - Amount to create a transaction for. If not included a popup is shown with option to enter amount.
-- id - The button must have an id tag with `hedera-pay-btn 
+- `address` - Recipient's Hedera Address
+- `theme` - Dark (dark) and Light (light) themes
+- `amount` (Optional) - Amount to create a transaction for. If not included a popup is shown with option to enter amount.
+- `id` - The button must have an id tag with `hedera-pay-btn 
 
 The button can be stylised in any way wanted, as long as it contains the id and other attributes.
 
